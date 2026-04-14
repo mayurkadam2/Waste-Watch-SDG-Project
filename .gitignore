@@ -1,0 +1,23 @@
+# Dependencies
+server/node_modules/
+node_modules/
+
+# Environment variables (SECRETS - never push this!)
+.env
+server/.env
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Antigravity
+.antigravityignore
