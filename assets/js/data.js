@@ -4,7 +4,7 @@
  * JWT token stored in sessionStorage.
  */
 const WMS = (() => {
-  const API = 'https://waste-watch-sdg-project.onrender.com';
+  const API = 'https://waste-watch-sdg-project.onrender.com/api';
   const TOKEN_KEY = 'wms_token';
   const USER_KEY = 'wms_user';
 
